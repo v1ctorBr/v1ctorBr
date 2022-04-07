@@ -1,3 +1,3 @@
-- 👋 Hellow World ! My name is João Victor.
+- 👋 Hello World ! My name is João Victor.
 - 👀 I’m interested in become developer FullStack.
 - 🌱 I’m currently learning HTML, CSS and Javascript.
